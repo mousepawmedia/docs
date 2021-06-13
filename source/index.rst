@@ -3,15 +3,15 @@ MousePaw Media Documentation
 
 You've found the documentation for MousePaw Media's libraries and projects.
 
-`Anari </anari>`_
-`Arctic Tern </arctic-tern>`_
-`Goldilocks </goldilocks>`_
-`IOSqueak </iosqueak>`_
-`Nimbly </nimbly>`_
-`Ratscript </ratscript>`_
-`SIMPLEXpress </simplexpress>`_
-`Stormsound </stormsound>`_
-`Trailcrest </trailcrest>`_
+* `Anari </projects/anari>`_
+* `Arctic Tern </projects/arctic-tern>`_
+* `Goldilocks </projects/goldilocks>`_
+* `IOSqueak </projects/iosqueak>`_
+* `Nimbly </projects/nimbly>`_
+* `Ratscript </projects/ratscript>`_
+* `SIMPLEXpress </projects/simplexpress>`_
+* `Stormsound </projects/stormsound>`_
+* `Trailcrest </projects/trailcrest>`_
 
 Standards
 =======================
@@ -27,7 +27,7 @@ Outdated Projects
 
 These projects were discontinued, but the documentation is still available.
 
-`PawLIB </pawlib>`_
+* `PawLIB </projects/pawlib>`_
 
 Feedback
 ===========================

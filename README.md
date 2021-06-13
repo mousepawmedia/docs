@@ -3,7 +3,10 @@ MousePaw Media: Documentation
 
 This is intended as the landing page for the MousePaw Media documentation.
 
-This documentation is built using Sphinx and hosted on ReadTheDocs.
+This documentation is built using Sphinx and hosted on ReadTheDocs. If you
+find an error, please open a Differential on our
+[Phabricator](https://phab.mousepawmedia.com). We do not accept pull requests
+through our GitHub Mirrors.
 
 License
 -------------
